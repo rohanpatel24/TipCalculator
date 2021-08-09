@@ -1,0 +1,30 @@
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.exe
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.csprojAssemblyReference.cache
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.Form1.resources
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.csproj.GenerateResource.cache
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.AssemblyInfoInputs.cache
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.AssemblyInfo.cs
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.csproj.CoreCompileInputs.cache
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.dll
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.pdb
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.deps.json
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.runtimeconfig.json
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.runtimeconfig.dev.json
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.dll
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.pdb
+C:\Users\rohan\Desktop\FINAL CS PRO WORKING\PRIYANKA coloured\Tip_Calculator_Assignment-main (1)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.genruntimeconfig.cache
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.exe
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.deps.json
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.runtimeconfig.json
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.runtimeconfig.dev.json
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.dll
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\bin\Debug\netcoreapp3.1\Grapecity_assessment.pdb
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.csprojAssemblyReference.cache
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.Form1.resources
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.csproj.GenerateResource.cache
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.AssemblyInfoInputs.cache
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.AssemblyInfo.cs
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.csproj.CoreCompileInputs.cache
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.dll
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.pdb
+C:\Users\rohan\Desktop\rohan patel(grapecity C#)\Tip_Calculator_Assignment-main\obj\Debug\netcoreapp3.1\Grapecity_assessment.genruntimeconfig.cache
